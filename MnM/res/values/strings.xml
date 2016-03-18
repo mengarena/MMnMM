@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MnM</string>
+    <string name="hello_world">Hello world!</string>
+	<string name="defaultinfo">Mount/Nonmount</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_stop">Stop</string>
+    <string name="app_folder">MnM</string>
+    <string name="gps">GPS</string>
+</resources>
